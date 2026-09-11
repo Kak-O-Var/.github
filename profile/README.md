@@ -1,6 +1,6 @@
 # **Kak'O Var Games**
 
-![logo](kakovar-logo.png)
+![Kakovar Logo](../images/kakovar-logo.png)
 
 Добро пожаловать на страницу нашей инди-разработки! Мы создаем проект **Chronicles of Decay**.
 
